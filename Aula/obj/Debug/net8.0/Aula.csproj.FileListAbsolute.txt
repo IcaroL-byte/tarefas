@@ -1,0 +1,14 @@
+D:\Users\20241170150043\Desktop\Aula\bin\Debug\net8.0\Aula.exe
+D:\Users\20241170150043\Desktop\Aula\bin\Debug\net8.0\Aula.deps.json
+D:\Users\20241170150043\Desktop\Aula\bin\Debug\net8.0\Aula.runtimeconfig.json
+D:\Users\20241170150043\Desktop\Aula\bin\Debug\net8.0\Aula.dll
+D:\Users\20241170150043\Desktop\Aula\bin\Debug\net8.0\Aula.pdb
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.AssemblyInfoInputs.cache
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.AssemblyInfo.cs
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.csproj.CoreCompileInputs.cache
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.dll
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\refint\Aula.dll
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.pdb
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\Aula.genruntimeconfig.cache
+D:\Users\20241170150043\Desktop\Aula\obj\Debug\net8.0\ref\Aula.dll

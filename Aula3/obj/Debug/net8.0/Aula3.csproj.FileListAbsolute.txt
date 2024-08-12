@@ -1,0 +1,14 @@
+D:\Users\20241170150043\Desktop\Aula3\bin\Debug\net8.0\Aula3.exe
+D:\Users\20241170150043\Desktop\Aula3\bin\Debug\net8.0\Aula3.deps.json
+D:\Users\20241170150043\Desktop\Aula3\bin\Debug\net8.0\Aula3.runtimeconfig.json
+D:\Users\20241170150043\Desktop\Aula3\bin\Debug\net8.0\Aula3.dll
+D:\Users\20241170150043\Desktop\Aula3\bin\Debug\net8.0\Aula3.pdb
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.AssemblyInfoInputs.cache
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.AssemblyInfo.cs
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.csproj.CoreCompileInputs.cache
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.dll
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\refint\Aula3.dll
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.pdb
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\Aula3.genruntimeconfig.cache
+D:\Users\20241170150043\Desktop\Aula3\obj\Debug\net8.0\ref\Aula3.dll
